@@ -1,6 +1,7 @@
 $(document).ready(function() {
-      var theMessage = $("input[name=write whatever u want!]").val();
+     
       $('button').click(function() {
+             var theMessage = $("input[name=write whatever u want!]").val();
             $('#messages').append("<p>"+theMessage+"</p>")
       }
       
