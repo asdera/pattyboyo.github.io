@@ -1,3 +1,5 @@
 $(document).ready(function() {
-  $('div').resizable();
+  $( document ).click(function() {
+  $( "#explode" ).toggle( "explode" );
+});
 })
