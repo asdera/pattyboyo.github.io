@@ -1,5 +1,7 @@
 $(document).ready(function() {
-  $( document ).click(function() {
-  $( "#explode" ).toggle( "explode" );
+  $( "div").click(function() {
+  $( "#explode" ).animate( {
+    background-color:"green";
+  } );
 });
 })
