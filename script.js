@@ -13,5 +13,5 @@ $(document).ready(function() {
         $('img').animate({Left:'+=10'},'fast')
         break;
     }
-  }
+  })
 })
