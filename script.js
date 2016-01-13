@@ -7,10 +7,10 @@ $(document).ready(function() {
   $(document).keyDown(function(key) {
     switch(parseInt(key.which,10)) {
       case 37:
-        $('img').animate({Left:'-=10'},'fast')
+        $('img').animate({Left:'-=10px'},'fast')
         break;
         case 39:
-        $('img').animate({Left:'+=10'},'fast')
+        $('img').animate({Left:'+=10px'},'fast')
         break;
     }
   })
