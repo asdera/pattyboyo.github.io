@@ -3,7 +3,7 @@ $(document).ready(function() {
   $( "#explode" ).animate( {
     background-color:"green";
   } );
-});
+
  $(document).keydown(function(key) {
         switch(parseInt(key.which,10)) {
 			// Left arrow key pressed
