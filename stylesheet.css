@@ -26,6 +26,13 @@ div {
   width:100px;
 }
 
+#elem {
+    color: #006;
+    background-color: #aaa;
+    font-size: 25px;
+    padding: 1em;
+    text-align: center;
+  }
 #explode {
   height:100px;
   width:100px;
