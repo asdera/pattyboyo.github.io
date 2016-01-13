@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $( "div").click(function() {
+  $( "#explode").click(function() {
   $( "#explode" ).animate( {
     background-color:"green";
   } );
