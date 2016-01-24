@@ -14,8 +14,12 @@
 
  <script>
 $( "div" ).click(function() {
-  $( "#explode" ).animate({
-    backgroundColor: "rgb( 20, 20, 20 )"
+  $( "img" ).animate({
+    opacity: 0.25,
+    left: "+=50",
+    height: "toggle"
+  }, 5000, function() {
+    // Animation complete.
   });
 });
 </script>
