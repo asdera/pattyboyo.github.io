@@ -2,7 +2,7 @@
 
 div {
   float: center;
-  background color: #89cff0;
+  background color: blue;
   border: 2px solid black;
 }
 
@@ -10,6 +10,6 @@ div {
   float: left;
   height: 100%;
   width: 400 px;
-  background color: #d3d3d3;
+  background color: green;
   clear: both;
 }
