@@ -1,7 +1,9 @@
+
+
 div {
   float: center;
   background color: #89cff0;
-  
+  border: 2px solid black;
 }
 
 #sidebar {
