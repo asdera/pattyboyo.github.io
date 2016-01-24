@@ -9,4 +9,5 @@ div {
   height: 100%;
   width: 400 px;
   background color: #d3d3d3;
+  clear: both;
 }
