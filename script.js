@@ -1,7 +1,7 @@
 
   $(document).ready(function(){
     $("button").click(function(){
-        $('p').append("<p>test</p>")
+        $('.class').append("<p>secret stuff</p>, <p>more secret stuff</p>")
             
         
     });
