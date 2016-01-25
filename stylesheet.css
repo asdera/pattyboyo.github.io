@@ -1,18 +1,26 @@
-
-
-div {
-  margin: 0 auto;
-  background-color: blue;
+.main {
+  position: fixed;
+ 
+  margin-left: 91px;
+  background-color: #5b88f6;
   border: 2px solid black;
-  width: 600px;
-  height:700px;
+  width: 500px;
+  height: 500px;
+
+  padding-left: 10px;
+  padding-right: 10px;
+
 }
 
 .sidebar {
-  float: left;
-  height: 100%;
-  width: 200px;
-  background-color: green;
-  clear: both;
-  margin-right: 400px;
+  position: fixed;
+  height: 500px;
+  width: 90px;
+  background-color: #d5bde4;
+  border: 2px solid black;
+  margin-left: 0px;
 }
+
+img {
+  width: 300px;
+  height:300px;
