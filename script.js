@@ -1,8 +1,8 @@
 
   $(document).ready(function(){
     $("button").click(function(){
-        $(".sidebar").animate({
-            background-color: 'ffff99';
-        });
+        $('p').append("<p>test</p>")
+            
+        
     });
 });
