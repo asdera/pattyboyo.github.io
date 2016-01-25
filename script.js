@@ -1,7 +1,7 @@
 $(document).ready(function() {
-  $( "#explode").click(function() {
-  $( "#explode" ).animate( {
-    backgroundColor:"rgb( 20, 20, 20)";
+  $( "div").click(function() {
+  $( "div" ).animate( {
+    background-color:"rgb( 20, 20, 20)";
   } );
 
  
