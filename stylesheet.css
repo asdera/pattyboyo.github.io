@@ -1,6 +1,6 @@
 .main {
   position: fixed;
- 
+  
   margin-left: 91px;
   background-color: #5b88f6;
   border: 2px solid black;
@@ -9,7 +9,10 @@
   background-image:url(' http://www.planwallpaper.com/static/images/Abstract-Cool-Background.jpg');
   padding-left: 10px;
   padding-right: 10px;
+}
 
+.main p {
+  color: white;
 }
 
 .sidebar {
