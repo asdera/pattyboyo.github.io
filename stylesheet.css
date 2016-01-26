@@ -40,7 +40,8 @@ button {
    position:absolute;
    display:none;
    height:500px;
-   width:100%;
+   width:500px;
+   z-index:123123;
 }
 
 img:hover .dropdown {
