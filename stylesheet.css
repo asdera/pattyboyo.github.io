@@ -9,10 +9,15 @@
   background-image:url(' http://www.planwallpaper.com/static/images/Abstract-Cool-Background.jpg');
   padding-left: 10px;
   padding-right: 10px;
+  background-size: 500px 500px;
 }
 
 .main p {
   color: white;
+}
+
+.main h1 {
+  color:white;
 }
 
 .sidebar {
