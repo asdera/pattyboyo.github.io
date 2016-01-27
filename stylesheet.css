@@ -7,9 +7,11 @@
   width: 1002px;
   height: 600px;
   background-image:url(' http://www.planwallpaper.com/static/images/Abstract-Cool-Background.jpg');
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
   background-size: 1101px 700px;
+  text-align: center;
+  
 }
 
 .main p {
