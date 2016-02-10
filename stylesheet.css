@@ -1,3 +1,9 @@
+document {
+  overflow: scroll;
+}
+
+
+
 .main {
   position: fixed;
   
