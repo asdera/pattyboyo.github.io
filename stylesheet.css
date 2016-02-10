@@ -1,6 +1,3 @@
-document {
-  overflow: scroll;
-}
 
 
 
@@ -66,3 +63,7 @@ img:hover .dropdown {
 }
 
 
+canvas {
+  height: 500px;
+  width: 800px;
+}
