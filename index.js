@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $(".sidebar").hover(function(){
+    $(".sidebar div").hover(function(){
         $(this).fadeTo("slow", 0.4);
     },
     function(){
